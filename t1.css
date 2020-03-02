@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: '.PingFang SC Medium','Microsoft YaHei',Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: bisque;
+    height: 120px;
+    text-align: center;
+    line-height: 120px;
+    font-size: 2em;
+}
+
+section{
+    display: flex;
+    text-align: center;
+    font-size: 1.5em;
+    height: 200px;
+    line-height: 200px;
+}
+
+article{
+    width: 33.3%;
+    background-color: cadetblue;
+}
+
+aside{
+    width:33.3%;
+    background-color: darkkhaki;
+}
+
+nav{
+    width: 33.4%;
+    background-color: darkseagreen;
+}
+
+footer{
+    background-color: deeppink;
+    height: 120px;
+    text-align: center;
+    line-height: 120px;
+    font-size: 2em;
+}
